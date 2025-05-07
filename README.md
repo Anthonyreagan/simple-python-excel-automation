@@ -1,3 +1,1 @@
-# simple-python-excel-automation
-# simple-python-excel-automation
-# simple-python-excel-automation
+This is a simple automation of excel spreadsheet usin python.
